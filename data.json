@@ -10,5 +10,11 @@
     "title": "Second Item",
     "description": "This is my second test item",
     "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": "1785175727439",
+    "title": "UJay",
+    "description": "HIHI",
+    "image": "images/1785175727439.webp"
   }
 ]
